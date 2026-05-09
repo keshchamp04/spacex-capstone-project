@@ -9,10 +9,10 @@ This section focuses on building interactive visualizations for analyzing SpaceX
 - Explore relationships between payload, launch site, and landing outcomes  
 
 ## Files Included
-- folium-map.ipynb  
+- lab_jupyter_launch_site_location.jupyterlite.ipynb  
   → Builds interactive maps with launch site markers, landing outcomes, and distance analysis.
 
-- plotly-dashboard.ipynb  
+- spacex-dash-app.ipynb  
   → Creates an interactive dashboard using Plotly Dash for visual analytics.
 
 ## Interactive Map with Folium
