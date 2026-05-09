@@ -9,10 +9,10 @@ This section focuses on analyzing the SpaceX launch dataset to identify patterns
 - Generate insights to support predictive modeling  
 
 ## Files Included
-- eda-visualization.ipynb  
+- edadataviz.ipynb  
   → Performs exploratory analysis using plots and charts (matplotlib, seaborn)
 
-- eda-sql.ipynb  
+- jupyter-labs-eda-sql-coursera_sqllite.ipynb  
   → Performs data analysis using SQL queries for filtering, aggregation, and insight extraction  
 
 ## EDA with Visualization
