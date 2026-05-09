@@ -8,10 +8,10 @@ This section contains notebooks related to collecting SpaceX launch data using A
 - Wikipedia page: "List of Falcon 9 and Falcon Heavy launches"
 
 ## Files Included
-- jupyter-labs-spacex-data-collection-api  
+- jupyter-labs-spacex-data-collection-api.ipynb  
   → Extracts launch data such as flight number, payload mass, orbit, and landing outcome using SpaceX API.
 
-- jupyter-labs-webscraping  
+- jupyter-labs-webscraping.ipynb  
   → Scrapes launch records from Wikipedia using BeautifulSoup and processes the extracted tables.
 
 ## Process Summary
