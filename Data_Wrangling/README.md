@@ -9,7 +9,7 @@ This section focuses on cleaning and preparing the SpaceX launch dataset for fur
 - Create features required for analysis and machine learning  
 
 ## Files Included
-- data-wrangling.ipynb  
+- jupyter-labs-spacex-Data wrangling.ipynb  
   → Performs data cleaning, preprocessing, and feature engineering on the collected dataset.
 
 ## Data Processing Steps
